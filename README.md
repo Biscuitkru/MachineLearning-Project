@@ -1,5 +1,5 @@
-## ST3189MachineLearning
-# 3 Part R Coursework on Machine Learning
+# ST3189MachineLearning
+## 3 Part R Coursework on Machine Learning
 
 1. In the first part you will be given data collected from various individuals on several variables. The goal will be to use unsupervised learning techniques such as Principal Component Analysis or Cluster Analysis to summarise the information in the data by appropriate tables and/or plots.
 
