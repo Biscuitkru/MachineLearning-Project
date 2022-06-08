@@ -5,7 +5,7 @@
 
 This will be done through the usage of the EWCS dataset
 
-#Task:
+### Task:
 Visualise and describe the data via unsupervised learning methods.
 
 
@@ -13,7 +13,7 @@ Visualise and describe the data via unsupervised learning methods.
 
 This will be done through the usage of the Student Performance Dataset
 
-#Task:
+### Task:
 Build a regression model for the variable G3 (final grade) without using the variables G1 and G2. Interpret the model and assess its predictive performance.
 
 
@@ -21,5 +21,5 @@ Build a regression model for the variable G3 (final grade) without using the var
 
 This will be done through the usage of the Bank Marketing Dataset
 
-#Task:
+### Task:
 Build a Classification model to predict if the client will subscribe (yes/no) a term deposit (variable Y). Interpret the model and assess its predictive performance.
