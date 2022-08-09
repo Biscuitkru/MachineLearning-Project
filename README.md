@@ -11,7 +11,7 @@ Visualise and describe the data via unsupervised learning methods.
 
 
 ### Part 2. 
-In the second part you will be presented with a regression problem. The aim would be to comparevarious models and techniques for their estimation to allow meaningful interpretation and competitive predictive performance. The latter should be assessed by appropriate experiments based on training and test datasets. In addition to linear regression, Tree based methods, Non-linear models or other suitable techniques can be used if you think they can provide improvement.
+In the second part you will be presented with a regression problem. The aim would be to compare various models and techniques for their estimation to allow meaningful interpretation and competitive predictive performance. The latter should be assessed by appropriate experiments based on training and test datasets. In addition to linear regression, Tree based methods, Non-linear models or other suitable techniques can be used if you think they can provide improvement.
 
 This will be done through the usage of the Student Performance Dataset
 
