@@ -1,4 +1,4 @@
-# ST3189 MachineLearning
+# ST3189 Machine Learning
 ## 3 Part R Coursework on Machine Learning
 
 ###  Part 1. 
